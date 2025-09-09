@@ -27,11 +27,6 @@ Ganesh-Chaturthi-Art/
 ├── LICENSE       # MIT License file
 └── .gitignore    # Python ignore file
 
- 5. Requirements
-
-     Python 3.x
-
-    Turtle module (pre-installed with Python)
 
  6. License
     This project is licensed under the **MIT License**.
